@@ -1,0 +1,554 @@
+.logo1 {
+  width: 145px !important;
+  height: 145px !important;
+  margin-left: 65px;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.navbar-nav {
+  width: 350px !important;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.lolli {
+  width: 200px !important;
+  margin-right: 70px;
+}
+
+.iconbox1 .btn {
+  color: #F14A16;
+  border-color: #F14A16;
+}
+
+.section1 {
+  background: -webkit-gradient(linear, left top, right top, from(#212571), to(#681762));
+  background: linear-gradient(90deg, #212571, #681762);
+}
+
+.container {
+  width: 100%;
+}
+
+.col-6 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.col-6 button {
+  display: inline-block;
+}
+
+.textbox1 .alma {
+  margin-left: 40px;
+}
+
+.textbox1 h1 {
+  color: white;
+  font-size: 55px !important;
+}
+
+.textbox1 h1 span {
+  color: #F14A16;
+}
+
+.textbox1 p {
+  color: #A4A4A4;
+  font-size: 20px;
+}
+
+.textbox1 button {
+  padding: 6px 22px;
+  background-color: #F14A16;
+  border-radius: 5px;
+  color: white;
+  border-color: #F14A16;
+}
+
+.textbox1 .fm2 {
+  background-color: transparent;
+  color: #F14A16;
+  border-color: #F14A16;
+}
+
+.imgbox1 {
+  position: relative;
+}
+
+.imgbox1 .allhdbox {
+  position: absolute;
+  background-color: transparent;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  bottom: 0;
+}
+
+.imgbox1 .allhdbox .box {
+  width: 150px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 10px;
+  border: 1px solid whitesmoke;
+  background-color: rgba(215, 210, 210, 0.317);
+  margin-right: 30px;
+}
+
+.imgbox1 .allhdbox .box img {
+  margin-top: -70px;
+}
+
+.imgbox1 .allhdbox .box p {
+  color: white;
+  font-size: 13px;
+}
+
+.imgbox1 .allhdbox .box .pbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.imgbox1 .allhdbox .box .pbox p {
+  color: #F14A16;
+  margin-left: 15px;
+}
+
+.imgbox1 .allhdbox .box .pbox del {
+  font-size: 12px;
+}
+
+.section4 {
+  width: 100%;
+  background-color: black;
+}
+
+.section4 .container {
+  padding-top: 30px;
+}
+
+.section4 h1 {
+  color: white;
+  text-align: center;
+}
+
+.section4 .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-top: 60px;
+}
+
+.section4 .card {
+  background-color: transparent;
+}
+
+.section4 .card-body {
+  background-color: rgba(249, 240, 240, 0.169);
+}
+
+.section4 .card-body h5 {
+  color: white;
+}
+
+.section4 .card-body h6 {
+  color: white;
+}
+
+.section4 .card-body ul {
+  color: white;
+}
+
+.section4 .card-body a {
+  color: white;
+  text-decoration: none;
+}
+
+.section4 .card-body .buttonbox2 {
+  background-color: transparent;
+  color: white;
+}
+
+.section4 .card-body .buttonbox2 .fm2 {
+  padding: 8px 14px;
+  border-radius: 5px;
+  background-color: transparent;
+  color: #F14A16;
+  border-color: #F14A16;
+  margin-right: 8px;
+}
+
+.section4 .card-body .buttonbox2 button {
+  padding: 8px 10px;
+  border-radius: 5px;
+  background-color: #F14A16;
+  color: white;
+}
+
+.section5 {
+  padding-top: 40px;
+  width: 100%;
+  background-color: black;
+}
+
+.section5 .container {
+  width: 80%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 5px;
+  padding-top: 35px;
+  padding-bottom: 15px;
+  background: -webkit-gradient(linear, left top, right top, from(#370665), to(#35589a));
+  background: linear-gradient(90deg, #370665, #35589a);
+}
+
+.section5 .container h1 {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+}
+
+.section5 .container .boxes4 {
+  width: 1000px;
+  margin-top: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.section5 .container .boxes4 .box {
+  width: 300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section5 .container .boxes4 .box h3 {
+  color: white;
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+.section6 {
+  width: 100%;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: black;
+}
+
+.section6 .container {
+  width: 80%;
+  height: 80%;
+  padding-top: 45px;
+}
+
+.section6 .imgbox2 {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section6 .imgbox2 p {
+  position: absolute;
+  padding: 30px 45px;
+  top: 0;
+  left: 0;
+  color: white;
+  font-size: 35px;
+  border-radius: 50%;
+  background-color: #370665;
+}
+
+.section6 .row {
+  background-color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.section6 .buttonbox {
+  margin-top: 20px;
+}
+
+.section6 .buttonbox button {
+  border-color: #f14A16;
+  border-radius: 6px;
+  padding: 6px 12px;
+  color: #f14A16;
+  background-color: transparent;
+}
+
+.section6 .buttonbox .bt2 {
+  background-color: #f14A16;
+  color: white;
+  padding: 6px 12px;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+
+.section6 .textbox3 h4 {
+  color: white;
+  font-size: 65px;
+  margin-bottom: 60px;
+}
+
+.section6 .textbox3 h3 {
+  color: white;
+  font-size: 32px;
+  margin-top: 30px;
+}
+
+.section6 .textbox3 .boxes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.section6 .textbox3 .box {
+  margin: 10px;
+  display: inline-block;
+}
+
+.section6 .textbox3 .box h1 {
+  text-align: center;
+  background-color: #370665;
+  border-radius: 12px;
+  color: white;
+}
+
+.section6 .textbox3 .box h2 {
+  color: white;
+  margin-top: -15px;
+}
+
+.section7 {
+  width: 100%;
+  height: 100vh;
+  padding-top: 40px;
+  background-color: black;
+}
+
+.section7 .container {
+  width: 80%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section7 .container h1 {
+  text-align: center;
+  color: white;
+}
+
+.section7 .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.section7 img {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  margin-top: 15px;
+  margin-right: 10px;
+  width: 500px;
+}
+
+.section7 img:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.section8 {
+  width: 100%;
+  background-color: black;
+}
+
+.section8 .container {
+  padding-top: 30px;
+}
+
+.section8 h1 {
+  color: white;
+  text-align: center;
+}
+
+.section8 .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-top: 60px;
+}
+
+.section8 .card {
+  background-color: transparent;
+}
+
+.section8 .card-body {
+  background-color: #370665;
+}
+
+.section8 .card-body h5 {
+  color: white;
+}
+
+.section8 .card-body h6 {
+  color: white;
+}
+
+.section8 .card-body ul {
+  color: white;
+}
+
+.section8 .card-body a {
+  color: white;
+  text-decoration: none;
+}
+
+.section8 .card-body .buttonbox2 {
+  background-color: transparent;
+  color: white;
+}
+
+.section8 .card-body .buttonbox2 .fm2 {
+  padding: 8px 14px;
+  border-radius: 5px;
+  background-color: transparent;
+  color: #F14A16;
+  border-color: #F14A16;
+  margin-right: 8px;
+}
+
+.section8 .card-body .buttonbox2 button {
+  padding: 8px 10px;
+  border-radius: 5px;
+  background-color: #F14A16;
+  color: white;
+}
+
+.section9 {
+  width: 100%;
+  height: 70vh;
+  padding-top: 90px;
+  padding-bottom: 80px;
+  background-color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section9 .container {
+  background: -webkit-gradient(linear, left top, right top, from(#370665), to(#35589a));
+  background: linear-gradient(90deg, #370665, #35589a);
+  width: 80%;
+  padding: 50px;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.section9 .textbox {
+  margin-left: 70px;
+  text-align: center;
+}
+
+.section9 .textbox h2 {
+  font-size: 45px;
+  color: white;
+}
+
+.section9 .textbox h6 {
+  font-size: 30px;
+  color: white;
+}
+
+.section9 .imgbox img {
+  width: 250px;
+  margin-right: 25px;
+}
+
+footer {
+  background-color: #370665;
+  padding-top: 80px;
+}
+
+footer a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */

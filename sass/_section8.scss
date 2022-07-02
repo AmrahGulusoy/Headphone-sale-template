@@ -1,0 +1,57 @@
+.section8{
+    width: 100%;
+    background-color: black;
+    .container{
+        padding-top: 30px;
+    }
+    h1{
+      color: white; 
+        text-align: center;
+
+    }
+    .row{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 60px;
+    }
+    .card{
+        background-color: transparent;
+    }
+    .card-body{
+        background-color:  #370665;
+        ;
+        h5{
+            color: white;
+        }
+        h6{
+            color: white;
+        }
+        ul{
+            color: white;
+        }
+        a{
+            color: white;
+            text-decoration: none;
+        }
+        .buttonbox2{
+           background-color: transparent;
+            color: white;
+            .fm2{
+                padding: 8px 14px;
+                border-radius: 5px;
+                background-color: transparent;
+                color: #F14A16;
+                border-color: #F14A16;
+            margin-right: 8px;
+            }
+            button{
+                padding: 8px 10px;
+                border-radius: 5px;
+                background-color: #F14A16;
+                color: white;
+            
+            }
+        }
+    }
+}
+

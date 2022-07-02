@@ -1,0 +1,38 @@
+.section9{
+    width: 100%;
+    height: 70vh;
+    padding-top: 90px;
+    padding-bottom: 80px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .container{
+        background: linear-gradient(90deg, #370665 , #35589a);
+        width: 80%;
+        padding: 50px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .textbox{
+        margin-left: 70px;
+        text-align: center;
+        h2{
+            font-size: 45px;
+            color: white;
+
+        }
+        h6{
+            font-size: 30px;
+            color: white;
+        }
+    }
+.imgbox{
+    img{
+        width: 250px;
+        margin-right: 25px;
+    }
+}
+}

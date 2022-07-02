@@ -1,0 +1,40 @@
+.section5{
+    padding-top: 40px;
+    width: 100%;
+    background-color: black;
+    .container{
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 5px;
+        padding-top: 35px;
+        padding-bottom: 15px;
+        background: linear-gradient(90deg, #370665 , #35589a);
+        h1{
+            color: white;
+            text-align: center;
+            font-size: 35px;
+        }
+        .boxes4{
+            width: 1000px;
+            margin-top: 20px;
+        
+            display: flex;
+            justify-content: space-around;
+            .box{
+                width: 300px;
+
+                display: flex;
+                justify-content: center;
+                align-items: center;
+               
+                h3{
+                    color: white;
+                    margin-left: 10px;
+                    font-size: 25px;
+                }
+            }
+        }
+    }
+}
